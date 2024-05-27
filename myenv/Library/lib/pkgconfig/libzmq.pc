@@ -1,0 +1,12 @@
+prefix=d:/deeplearning/AI_projects/langchain_1/myenv/Library
+exec_prefix=d:/deeplearning/AI_projects/langchain_1/myenv/Library
+libdir=d:/deeplearning/AI_projects/langchain_1/myenv/Library/lib
+includedir=d:/deeplearning/AI_projects/langchain_1/myenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

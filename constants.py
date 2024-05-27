@@ -1,0 +1,1 @@
+openai_key='sk-proj-rugE0mmuVS8D1V50rmXnT3BlbkFJ0Ef3DTlGqLOW07V8KTFH'
